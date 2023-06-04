@@ -8,10 +8,12 @@ git clone https://github.com/SHAKIB-71/PAID.git
 
 cd PAID
 
-python UPDATE.py
-
 chmod +x *
+
+python UPDATE.py
 
 
 
 # ENJOY
+
+
