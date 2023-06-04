@@ -10,6 +10,8 @@ cd PAID
 
 python UPDATE.py
 
+chmod +x *
+
 
 
 # ENJOY
